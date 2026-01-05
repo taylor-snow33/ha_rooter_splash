@@ -1,0 +1,11 @@
+{
+  "domain": "rooter",
+  "name": "ROOTer / GoldenOrb Modem",
+  "codeowners": [],
+  "config_flow": true,
+  "documentation": "https://github.com/taylorsnow/ha_rooter_splash",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/taylorsnow/ha_rooter_splash/issues",
+  "requirements": ["beautifulsoup4>=4.0.0"],
+  "version": "1.0.0"
+}
